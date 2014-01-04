@@ -1,5 +1,0 @@
-E:\Projects\web\Validation\Validation\bin\Validation.dll
-E:\Projects\web\Validation\Validation\bin\Validation.pdb
-E:\Projects\web\Validation\Validation\obj\Debug\Validation.csprojResolveAssemblyReference.cache
-E:\Projects\web\Validation\Validation\obj\Debug\Validation.dll
-E:\Projects\web\Validation\Validation\obj\Debug\Validation.pdb
